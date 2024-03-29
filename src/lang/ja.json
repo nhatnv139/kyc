@@ -1,0 +1,64 @@
+{
+  "timeoutHeaderText": "処理時間が経過しました",
+  "timeoutMessageText": "指定された時間内に楕円形の画像内で顔の確認が完了していません。もう一度試して7秒以内に確認してください。",
+  "faceDistanceHeaderText": "認証中に距離の確認に失敗しました",
+  "faceDistanceMessageText": "認証中にカメラの前で顔が近すぎず、1つの顔のみが許可されています。",
+  "clientHeaderText": "ユーザーエラー",
+  "clientMessageText": "ユーザーエラーにより認証が失敗しました",
+  "serverHeaderText": "エラーが発生しました",
+  "serverMessageText": "システムで原因不明のエラーが発生しました。後で再試行してください。",
+  "landscapeHeaderText": "一時的に横向きモードはサポートされていません",
+  "landscapeMessageText": "デバイスを縦向きモードに変更してください。",
+  "portraitMessageText": "認証中にデバイスが常に縦向きになっていることを確認してください。",
+  "tryAgainText": "もう一度お試しください",
+
+  "instructionsHeaderHeadingText": "ユーザー確認",
+  "instructionsHeaderBodyText": "本物のユーザーであることを確認し始めてください",
+  "instructionsBeginCheckText": "確認を開始",
+  "photosensitivyWarningHeadingText": "光への反応に注意",
+  "photosensitivyWarningBodyText": "認証は色彩の光を使用します。光に敏感な場合は注意してください",
+  "photosensitivyWarningInfoText": "一部の人は色彩の光に触れると痙攣反応が起こることがあります。光に敏感な場合や家族に光に敏感な人がいる場合は注意してください",
+  "instructionListHeadingText": "確認プロセスを完了するための指示に従ってください:",
+  "goodFitCaptionText": "確認が完了しました",
+  "goodFitAltText": "あなたの顔が完全に楕円内に収まるように調整する動作",
+  "tooFarCaptionText": "顔が楕円から離れすぎています",
+  "tooFarAltText": "楕円はあなたの顔を包むように描かれています。顔の周囲と楕円の境界の間に余白を空けてください",
+  "instructionListStepOneText": "楕円が表示されたら、7秒以内に顔を楕円内に配置します",
+  "instructionListStepTwoText": "画面の明るさを最大に調整します",
+  "instructionListStepThreeText": "確認中に顔を覆う物体がないことを確認してください",
+  "instructionListStepFourText": "十分な光がある場所に移動し、太陽光直射を避けてください",
+
+  "cameraMinSpecificationsHeadingText": "カメラの最小仕様ヘッディングテキスト",
+  "cameraMinSpecificationsMessageText": "カメラは最低解像度320px * 240pxと秒間15フレームを満たす必要があります",
+  "cameraNotFoundHeadingText": "カメラへのアクセス権がありません",
+  "cameraNotFoundMessageText": "カメラへのアクセス権がありません。ブラウザでカメラへのアクセス権を付与し、もう一度お試しください",
+  "retryCameraPermissionsText": "再試行",
+
+  "cancelLivenessCheckText": "生体認証キャンセル",
+  "recordingIndicatorText": "録音中",
+
+  "hintMoveFaceFrontOfCameraText": "カメラの前に顔を持っていってください",
+  "hintTooManyFacesText": "カメラの前には1つの顔しかないことを確認してください",
+  "hintFaceDetectedText": "ユーザーの顔が検出されました",
+  "hintCanNotIdentifyText": "カメラの前に顔を持っていってください",
+  "hintTooCloseText": "もっと離れてください",
+  "hintTooFarText": "もっと近づいてください",
+  "hintHoldFacePositionCountdownText": "カウントダウン中に顔を動かさないでください",
+  "hintConnectingText": "接続中...",
+  "hintVerifyingText": "検証中...",
+  "hintIlluminationTooBrightText": "より暗い場所に移動してください",
+  "hintIlluminationTooDarkText": "より明るい場所に移動してください",
+  "hintIlluminationNormalText": "照明が正常です",
+  "hintHoldFaceForFreshnessText": "顔の位置を保ってください",
+
+  "kycSuccessful": "認証成功",
+  "kycRejected": "認証失敗",
+  "unableVerifyUser": "ユーザーを認証できません。再試行してください",
+  "userExist": "ユーザーはすでに他のアカウントで認証されています",
+  "userNotMatch": "ユーザーがKYC登録画像と一致しません",
+  "rateLimit": "予期せぬエラーが発生しました。もう一度お試しください"
+}
+
+
+
+

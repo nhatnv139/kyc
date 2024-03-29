@@ -1,0 +1,63 @@
+{
+  "timeoutHeaderText": "انتهت مدة المعالجة",
+  "timeoutMessageText": "لم يتم إكمال التحقق من الوجه في صورة الشكل البيضاوي خلال الوقت المحدد. يرجى إعادة المحاولة والتحقق في غضون 7 ثوانٍ",
+  "faceDistanceHeaderText": "فشلت عملية التحقق من المسافة",
+  "faceDistanceMessageText": "التحقق من الوجه لم يكن ناجحًا بسبب عدم الاقتراب بما فيه الكفاية ويُسمح فقط بوجود وجه واحد أمام الكاميرا",
+  "clientHeaderText": "خطأ من جانب المستخدم",
+  "clientMessageText": "فشلت عملية التحقق بسبب خطأ من جانب المستخدم",
+  "serverHeaderText": "حدث خطأ",
+  "serverMessageText": "حدث خطأ غير معروف في النظام. يرجى إعادة الفتح لاحقًا",
+  "landscapeHeaderText": "النظام لا يدعم مؤقتًا وضع الأفقي",
+  "landscapeMessageText": "يرجى تحويل الجهاز إلى وضع رأسي",
+  "portraitMessageText": "تأكد من أن الجهاز دائمًا في وضع رأسي أثناء التحقق",
+  "tryAgainText": "يرجى المحاولة مرة أخرى",
+
+  "instructionsHeaderHeadingText": "تحقق من هوية المستخدم",
+  "instructionsHeaderBodyText": "ابدأ في التحقق من أنك مستخدم حقيقي",
+  "instructionsBeginCheckText": "ابدأ التحقق",
+  "photosensitivyWarningHeadingText": "تحذير من التفاعل مع الضوء",
+  "photosensitivyWarningBodyText": "يتم التحقق باستخدام الضوء الملون. احترس إذا كنت حساسًا للضوء",
+  "photosensitivyWarningInfoText": "يعاني بعض الأشخاص من تشنجات عند التعرض للضوء الملون. كن حذرًا إذا كنت أو أحد أفراد عائلتك تعاني من مشاكل عند التعامل مع الضوء الملون",
+  "instructionListHeadingText": "اتبع التعليمات لإكمال عملية التحقق:",
+  "goodFitCaptionText": "تم التحقق بنجاح",
+  "goodFitAltText": "التحقق من أن وجهك يتناسب تمامًا داخل الشكل البيضاوي",
+  "tooFarCaptionText": "الوجه بعيد جداً عن الشكل البيضاوي",
+  "tooFarAltText": "تم رسم الشكل البيضاوي لاحتواء وجهك، يرجى ترك مسافة بين محيط وجهك وحافة الشكل البيضاوي",
+  "instructionListStepOneText": "عند عرض الشكل البيضاوي، ضع وجهك داخله لمدة 7 ثوانٍ",
+  "instructionListStepTwoText": "زيادة سطوع الشاشة إلى الحد الأقصى",
+  "instructionListStepThreeText": "تأكد من عدم وجود أي شيء يحجب وجهك أثناء عملية التحقق",
+  "instructionListStepFourText": "انتقل إلى مكان مع إضاءة كافية وتجنب القيام بذلك مباشرة تحت ضوء الشمس",
+
+  "cameraMinSpecificationsHeadingText":  "الكاميرا لا تستجيب للمواصفات الفنية اللازمة",
+  "cameraMinSpecificationsMessageText": "يجب أن تكون الكاميرا ذات الدقة الدنيا 320 بكسل * 240 بكسل وتلبي 15 إطارًا في الثانية",
+  "cameraNotFoundHeadingText": "لا يوجد إذن للوصول إلى الكاميرا",
+  "cameraNotFoundMessageText": "لا يوجد إذن للوصول إلى الكاميرا. يرجى منح إذن الوصول إلى الكاميرا في المتصفح وحاول مرة أخرى",
+  "retryCameraPermissionsText": "الرجاء المحاولة مرة أخرى",
+
+  "cancelLivenessCheckText": "إلغاء فحص الحيوية",
+  "recordingIndicatorText": "تسجيل",
+
+  "hintMoveFaceFrontOfCameraText": "ضع وجهك أمام الكاميرا",
+  "hintTooManyFacesText": "تأكد من أن هناك وجه واحد أمام الكاميرا فقط",
+  "hintFaceDetectedText": "تم اكتشاف وجه المستخدم",
+  "hintCanNotIdentifyText": "ضع وجهك أمام الكاميرا",
+  "hintTooCloseText": "رجاءً ابتعد قليلاً",
+  "hintTooFarText": "رجاءً اقترب قليلاً",
+  "hintHoldFacePositionCountdownText": "رجاءً عدم تحريك الوجه أثناء العد التنازلي",
+  "hintConnectingText": "جار الاتصال...",
+  "hintVerifyingText": "جار التحقق...",
+  "hintIlluminationTooBrightText": "انتقل إلى منطقة أكثر إظلامًا",
+  "hintIlluminationTooDarkText": "انتقل إلى منطقة أكثر إشراقًا",
+  "hintIlluminationNormalText": "حالة الإضاءة طبيعية",
+  "hintHoldFaceForFreshnessText": "رجاءً احتفظ بوضع الوجه",
+
+  "kycSuccessful": "التحقق الناجح",
+  "kycRejected": "التحقق الفاشل",
+  "unableVerifyUser": "لا يمكن التحقق من المستخدم، يرجى المحاولة مرة أخرى",
+  "userExist": "المستخدم موثق بالفعل على حساب آخر",
+  "userNotMatch": "المستخدم لا يتناسب مع صورة تسجيل KYC",
+  "rateLimit": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى"
+}
+
+
+

@@ -1,0 +1,64 @@
+{
+  "timeoutHeaderText": "处理超时",
+  "timeoutMessageText": "在规定时间内未能在椭圆形图像中完成面部确认。请重试并在7秒内确认。",
+  "faceDistanceHeaderText": "验证过程中距离检查失败",
+  "faceDistanceMessageText": "在验证过程中，面部距离过近，仅允许一个面部在摄像头前。",
+  "clientHeaderText": "用户错误",
+  "clientMessageText": "由于用户错误，验证失败",
+  "serverHeaderText": "发生错误",
+  "serverMessageText": "系统中发生原因不明的错误。请稍后重新打开。",
+  "landscapeHeaderText": "暂时不支持横向模式",
+  "landscapeMessageText": "请将设备切换到纵向模式。",
+  "portraitMessageText": "确保在验证过程中设备始终处于纵向模式。",
+  "tryAgainText": "请重试",
+
+  "instructionsHeaderHeadingText": "用户验证",
+  "instructionsHeaderBodyText": "开始验证您是真实用户",
+  "instructionsBeginCheckText": "开始验证",
+  "photosensitivyWarningHeadingText": "光敏感性警告",
+  "photosensitivyWarningBodyText": "验证使用有色光。如果您对光敏感，请小心",
+  "photosensitivyWarningInfoText": "有些人在接触有色光时可能会有癫痫反应。如果您或您的亲人对光敏感，请小心",
+  "instructionListHeadingText": "按以下说明完成验证过程：",
+  "goodFitCaptionText": "验证已匹配",
+  "goodFitAltText": "调整您的脸部完全位于椭圆内的操作",
+  "tooFarCaptionText": "脸部离椭圆太远",
+  "tooFarAltText": "椭圆被绘制以容纳您的脸部，请在脸部轮廓和椭圆边界之间留出间隙",
+  "instructionListStepOneText": "显示椭圆时，在7秒内将您的脸放入椭圆中",
+  "instructionListStepTwoText": "将屏幕亮度调至最大",
+  "instructionListStepThreeText": "确保在验证过程中没有遮挡您的脸部的物体",
+  "instructionListStepFourText": "前往光线充足的地方，避免在阳光直射下进行验证",
+
+  "cameraMinSpecificationsHeadingText": "相机最小规格标题文本",
+  "cameraMinSpecificationsMessageText": "相机需要至少320px * 240px的分辨率并达到每秒15帧",
+  "cameraNotFoundHeadingText": "无相机访问权限",
+  "cameraNotFoundMessageText": "无相机访问权限。请在浏览器中授予相机访问权限，并请重试",
+  "retryCameraPermissionsText": "请重试",
+
+  "cancelLivenessCheckText": "取消活体检测",
+  "recordingIndicatorText": "录制中",
+
+  "hintMoveFaceFrontOfCameraText": "将脸移至相机前",
+  "hintTooManyFacesText": "确保相机前只有一张脸",
+  "hintFaceDetectedText": "检测到用户脸部",
+  "hintCanNotIdentifyText": "将脸移至相机前",
+  "hintTooCloseText": "请稍微远离",
+  "hintTooFarText": "请稍微靠近",
+  "hintHoldFacePositionCountdownText": "倒计时期间请勿移动脸部",
+  "hintConnectingText": "连接中...",
+  "hintVerifyingText": "验证中...",
+  "hintIlluminationTooBrightText": "前往光线较暗的地方",
+  "hintIlluminationTooDarkText": "前往光线较亮的地方",
+  "hintIlluminationNormalText": "光照正常",
+  "hintHoldFaceForFreshnessText": "请保持脸部位置",
+
+  "kycSuccessful": "认证成功",
+  "kycRejected": "认证失败",
+  "unableVerifyUser": "无法验证用户，请重试",
+  "userExist": "用户已在其他账户上进行了验证",
+  "userNotMatch": "用户与KYC注册图像不匹配",
+  "rateLimit": "发生意外错误，请重试"
+}
+
+
+
+

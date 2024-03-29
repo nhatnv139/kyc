@@ -1,0 +1,66 @@
+
+{
+  "timeoutHeaderText": "처리 시간 초과",
+  "timeoutMessageText": "지정된 시간 내에 얼굴을 타원 모양 이미지에 확인하지 못했습니다. 다시 시도하고 7초 안에 확인하세요.",
+  "faceDistanceHeaderText": "인증 중 거리 확인 실패",
+  "faceDistanceMessageText": "인증 중에 카메라 앞에서 얼굴이 너무 가깝지 않으며 한 얼굴만 허용됩니다.",
+  "clientHeaderText": "사용자 오류",
+  "clientMessageText": "사용자 오류로 인한 인증 실패",
+  "serverHeaderText": "오류 발생",
+  "serverMessageText": "시스템에서 알 수 없는 원인으로 오류가 발생했습니다. 나중에 다시 시도하세요.",
+  "landscapeHeaderText": "일시적으로 가로 모드를 지원하지 않음",
+  "landscapeMessageText": "기기를 세로 모드로 전환하세요.",
+  "portraitMessageText": "인증 중에 기기가 항상 세로 모드로 설정되어 있는지 확인하세요.",
+  "tryAgainText": "다시 시도하세요",
+
+  "instructionsHeaderHeadingText": "사용자 확인",
+  "instructionsHeaderBodyText": "진짜 사용자임을 확인하기 시작하세요",
+  "instructionsBeginCheckText": "확인 시작",
+  "photosensitivyWarningHeadingText": "빛에 대한 반응 주의",
+  "photosensitivyWarningBodyText": "인증은 색상 빛을 사용합니다. 빛에 민감한 경우 주의하세요",
+  "photosensitivyWarningInfoText": "일부 사람들은 색상 빛에 노출될 때 경련 반응이 있을 수 있습니다. 빛에 민감한 경우나 가족 중에서 빛에 민감한 사람이 있다면 주의하세요",
+  "instructionListHeadingText": "인증을 완료하기 위한 지침을 따르세요:",
+  "goodFitCaptionText": "인증 완료",
+  "goodFitAltText": "얼굴이 타원 내부에 완전히 들어가도록 얼굴을 조정하는 동작",
+  "tooFarCaptionText": "얼굴이 타원에서 너무 멀리 떨어져 있음",
+  "tooFarAltText": "타원은 얼굴을 포함하도록 그려졌습니다. 얼굴의 둘레와 타원의 경계 사이에 여백을 두세요",
+  "instructionListStepOneText": "타원이 표시되면 7초 내에 얼굴을 타원 안에 위치시킵니다",
+  "instructionListStepTwoText": "화면의 밝기를 최대로 조절합니다",
+  "instructionListStepThreeText": "인증 중에 얼굴을 가리는 물체가 없도록 확인하세요",
+  "instructionListStepFourText": "충분한 빛이 있는 장소로 이동하고 직사광선을 피하세요",
+
+  "cameraMinSpecificationsHeadingText": "카메라 최소 사양 텍스트",
+  "cameraMinSpecificationsMessageText": "최소 해상도 320px * 240px 및 초당 15 프레임을 충족해야 합니다",
+  "cameraNotFoundHeadingText": "카메라 접근 권한 없음",
+  "cameraNotFoundMessageText": "카메라에 대한 액세스 권한이 없습니다. 브라우저에서 카메라 액세스 권한을 부여하고 다시 시도하세요",
+  "retryCameraPermissionsText": "다시 시도하세요",
+
+  "cancelLivenessCheckText": "사용자 확인 취소",
+  "recordingIndicatorText": "녹음 중",
+
+  "hintMoveFaceFrontOfCameraText": "카메라 앞에 얼굴을 가져다주세요",
+  "hintTooManyFacesText": "카메라 앞에 얼굴이 하나만 있는지 확인하세요",
+  "hintFaceDetectedText": "사용자 얼굴 감지됨",
+  "hintCanNotIdentifyText": "카메라 앞에 얼굴을 가져다주세요",
+  "hintTooCloseText": "더 멀리 물러나 주세요",
+  "hintTooFarText": "더 가까이 다가가 주세요",
+  "hintHoldFacePositionCountdownText": "카운트 다운 중 얼굴을 움직이지 말아주세요",
+  "hintConnectingText": "연결 중...",
+  "hintVerifyingText": "인증 중...",
+  "hintIlluminationTooBrightText": "더 어두운 곳으로 이동해 주세요",
+  "hintIlluminationTooDarkText": "더 밝은 곳으로 이동해 주세요",
+  "hintIlluminationNormalText": "조명 상태 정상",
+  "hintHoldFaceForFreshnessText": "자세를 유지해 주세요",
+
+  "kycSuccessful": "인증 성공",
+  "kycRejected": "인증 실패",
+  "unableVerifyUser": "사용자를 인증할 수 없습니다. 다시 시도하세요.",
+  "userExist": "사용자는 이미 다른 계정에서 인증되었습니다.",
+  "userNotMatch": "사용자가 KYC 등록 이미지와 일치하지 않습니다.",
+  "rateLimit": "의도치 않은 오류가 발생했습니다. 다시 시도하세요."
+}
+
+
+
+
+

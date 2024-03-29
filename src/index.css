@@ -1,0 +1,134 @@
+@font-face {
+  font-family: 'Gilroy';
+  src: local('Gilroy'), url(./fonts/SVN-Gilroy.otf) format('opentype');
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Gilroy', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', 'Gilroy', monospace;
+}
+
+.heading-title-custom {
+  font-size: 32px !important;
+  font-weight: 700 !important;
+  color: #0365FF !important;
+  line-height: 40px;
+  font-family: 'Gilroy' !important;
+}
+
+p.amplify-text-custom {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  color: #6b6b80 !important;
+  font-family: 'Gilroy' !important;
+}
+
+.amplify-alert--error-custom {
+  border-radius: 8px !important;
+  background: rgba(251, 56, 56, 0.05) !important;
+}
+.amplify-alert--error-custom .amplify-alert__body {
+  color: #6B6B80;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  font-family: 'Gilroy' !important;
+}
+
+.head-warning {
+  color: #FB3838;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  font-family: 'Gilroy' !important;
+}
+.introduction_title_custom {
+  color: #18294A;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 0px 0px 10px;
+  font-family: 'Gilroy' !important;
+}
+
+.introductions_img_custom_bg {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  z-index: 2;
+}
+
+.introductions_img_custom_good {
+  position: absolute;
+  top: 2px;
+  height: 100%;
+  left: 0;
+  z-index: 1;
+}
+
+.introductions_img_custom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.introductions_img_container {
+  position: relative;
+  width: 124px;
+  height: 124.498px;
+  margin-bottom: 6px;
+}
+
+.introductions_img_content span {
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  font-family: 'Gilroy' !important;
+}
+
+.introductions_img_content .error {
+  color: #FB3838;
+}
+
+.introductions_img_content .success {
+  color: #33B469;
+}
+
+.introductions-container-custom ol {
+  padding-left: 16px;
+}
+
+.introductions-container-custom li {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  color: #6B6B80;
+  font-family: 'Gilroy' !important;
+}
+
+.amplify-button {
+  border-radius: 4px !important;
+  background: #0365FF !important;
+  max-width: 343px !important;
+  width: 100% !important;
+  font-weight: 400 !important;
+  line-height: 21px !important;
+  font-size: 14px !important;
+  font-family: 'Gilroy' !important;
+}

@@ -1,0 +1,64 @@
+{
+  "timeoutHeaderText": "समय सीमा समाप्त हो गई",
+  "timeoutMessageText": "निर्धारित समय में चेहरे को ओवल चित्र में पुनरीक्षण नहीं किया गया है। कृपया पुनः प्रयास करें और 7 सेकंड के भीतर पुनरीक्षण करें।",
+  "faceDistanceHeaderText": "प्रमाणीकरण में दूरी की जाँच में असफल",
+  "faceDistanceMessageText": "प्रमाणीकरण के दौरान कैमरे के सामने चेहरा बहुत नजदीक नहीं है और केवल एक चेहरा की अनुमति है।",
+  "clientHeaderText": "उपयोगकर्ता से त्रुटि",
+  "clientMessageText": "उपयोगकर्ता से हुई त्रुटि के कारण प्रमाणीकरण में असफल",
+  "serverHeaderText": "त्रुटि उत्पन्न हो गई",
+  "serverMessageText": "सिस्टम में अज्ञात कारण से त्रुटि हो गई है। कृपया बाद में पुनः खोलें।",
+  "landscapeHeaderText": "सिस्टम अस्थायी रूप से आड़े मोड का समर्थन नहीं करता",
+  "landscapeMessageText": "उपकरण को ऊपर नीचे करें।",
+  "portraitMessageText": "पुनः प्रमाणीकरण के दौरान सुनिश्चित करें कि उपकरण हमेशा ऊपर नीचे मोड में है।",
+  "tryAgainText": "कृपया पुनः प्रयास करें",
+
+  "instructionsHeaderHeadingText": "उपयोगकर्ता सत्यापन",
+  "instructionsHeaderBodyText": "यह सत्यापित करने के लिए शुरू करें कि आप वास्तविक उपयोगकर्ता हैं",
+  "instructionsBeginCheckText": "सत्यापन शुरू करें",
+  "photosensitivyWarningHeadingText": "प्रकाश के साथ प्रतिक्रिया की चेतावनी",
+  "photosensitivyWarningBodyText": "सत्यापन में रंगीन प्रकाश का उपयोग होता है। यदि आप प्रकाश के प्रति संवेदनशील हैं, तो सावधान रहें",
+  "photosensitivyWarningInfoText": "कुछ लोग रंगीन प्रकाश से संपर्क करने पर आतंकित प्रतिक्रिया दिखा सकते हैं। यदि आप या आपके परिवार के सदस्यों को रंगीन प्रकाश के संपर्क में किसी समस्या का सामना करते हैं, तो सावधान रहें",
+  "instructionListHeadingText": "पूर्णता प्राप्त करने के लिए निर्देशों का पालन करें:",
+  "goodFitCaptionText": "सत्यापन हो गया",
+  "goodFitAltText": "अपने चेहरे को पूरी तरह से अंडाकारी आकार में रखने के लिए समायोजित करें",
+  "tooFarCaptionText": "चेहरा अंडाकारी से बहुत दूर है",
+  "tooFarAltText": "अंडाकारी को आपके चेहरे को शामिल करने के लिए डिज़ाइन किया गया है, चेहरे की बाहरी परिधि और अंडाकारी की सीमा के बीच एक खाली स्थान छोड़ें",
+  "instructionListStepOneText": "जब अंडाकारी दिखाई दे, 7 सेकंड के भीतर अपना चेहरा अंडाकारी में रखें",
+  "instructionListStepTwoText": "स्क्रीन की चमक को अधिकतम करें",
+  "instructionListStepThreeText": "सत्यापन के दौरान चेहरा छिपने से बचाएं",
+  "instructionListStepFourText": "पर्याप्त प्रकाश वाले स्थान पर जाएं और सीधे सूरज के तले कार्रवाई न करें",
+
+  "cameraMinSpecificationsHeadingText": "कैमरा आवश्यक तकनीकी विवरण का उत्तर नहीं देता",
+  "cameraMinSpecificationsMessageText": "कैमरा को कम से कम 320px * 240px का न्यूनतम संकलन और 15 प्रति सेकंड में सामर्थ्यिक बनाए रखना चाहिए",
+  "cameraNotFoundHeadingText": "कैमरा तक पहुँचने का अधिकार नहीं है",
+  "cameraNotFoundMessageText": "कैमरा तक पहुँचने का अधिकार नहीं है। कृपया ब्राउज़र में कैमरा तक पहुँचने का अधिकार प्रदान करें और पुनः प्रयास करें",
+  "retryCameraPermissionsText": "कृपया पुनः प्रयास करें",
+
+  "cancelLivenessCheckText": "उपयोगकर्ता सत्ता सत्यापन रद्द करें",
+  "recordingIndicatorText": "रिकॉर्डिंग",
+
+  "hintMoveFaceFrontOfCameraText": "कैमरा के सामने अपना चेहरा लाएं",
+  "hintTooManyFacesText": "सुनिश्चित करें कि कैमरा के सामने केवल एक चेहरा है",
+  "hintFaceDetectedText": "उपयोगकर्ता का चेहरा पहचाना गया",
+  "hintCanNotIdentifyText": "कैमरा के सामने अपना चेहरा लाएं",
+  "hintTooCloseText": "कृपया और दूर हटें",
+  "hintTooFarText": "कृपया और पास आएं",
+  "hintHoldFacePositionCountdownText": "कृपया गिनती के दौरान अपना चेहरा नहीं हिलाएं",
+  "hintConnectingText": "कनेक्ट हो रहा है...",
+  "hintVerifyingText": "सत्यापित हो रहा है...",
+  "hintIlluminationTooBrightText": "एक अधिक अंधेरे स्थान पर जाएं",
+  "hintIlluminationTooDarkText": "एक और चमकीले स्थान पर जाएं",
+  "hintIlluminationNormalText": "प्रकाश स्थिति सामान्य",
+  "hintHoldFaceForFreshnessText": "कृपया स्थिति बनाए रखें",
+
+  "kycSuccessful": "पहचान सफल",
+  "kycRejected": "पहचान असफल",
+  "unableVerifyUser": "उपयोगकर्ता की पहचान संभाल नहीं सकी, कृपया पुनः प्रयास करें",
+  "userExist": "उपयोगकर्ता पहले से ही एक अन्य खाते पर पहचानित है",
+  "userNotMatch": "उपयोगकर्ता KYC पंजीकरण की छवि के साथ मेल नहीं खाता",
+  "rateLimit": "एक अनपेक्षित त्रुटि हुई है। कृपया पुनः प्रयास करें"
+}
+
+
+
+
